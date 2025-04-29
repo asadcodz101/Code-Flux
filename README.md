@@ -33,7 +33,7 @@ Perfect for users who want to temporarily disable their laptop keyboard when usi
 
 ---
 
-### Common Use Cases
+## Common Use Cases
 
 - **Disable Laptop Keyboard While Using USB Keyboard**
   - Ideal for users with a broken or malfunctioning built-in keyboard.
