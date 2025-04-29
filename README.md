@@ -6,7 +6,7 @@ Perfect for users who want to temporarily disable their laptop keyboard when usi
 
 ---
 
-## 🛠️ Features
+##  Features
 
 - ✔️ Detects current PS/2 driver status automatically
 - 🔁 Toggles between **ENABLED** and **DISABLED**
@@ -15,7 +15,7 @@ Perfect for users who want to temporarily disable their laptop keyboard when usi
 
 ---
 
-## 💻 Supported Platforms
+## Supported Platforms
 
 - ✅ Windows 10 / 11 (with PS/2 keyboard support)
 - ❌ Not compatible with USB-only keyboards
@@ -23,7 +23,7 @@ Perfect for users who want to temporarily disable their laptop keyboard when usi
 
 ---
 
-## 📦 How to Use
+## How to Use
 
 1. [Download the ZIP](https://github.com/asadcodz101/Code-Flux/releases) from the **Releases** section.
 2. Extract the contents.
@@ -33,7 +33,7 @@ Perfect for users who want to temporarily disable their laptop keyboard when usi
 
 ---
 
-### ✅ Common Use Cases
+### Common Use Cases
 
 - **Disable Laptop Keyboard While Using USB Keyboard**
   - Ideal for users with a broken or malfunctioning built-in keyboard.
