@@ -33,6 +33,32 @@ Perfect for users who want to temporarily disable their laptop keyboard when usi
 
 ---
 
+### ✅ Common Use Cases
+
+- **Disable Laptop Keyboard While Using USB Keyboard**
+  - Ideal for users with a broken or malfunctioning built-in keyboard.
+  - Prevents accidental keypresses during typing or gaming.
+
+- **Prevent Unauthorized Physical Access**
+  - Useful in public or kiosk environments.
+  - Blocks local keyboard input to improve physical security.
+
+- **Child or Pet Safety**
+  - Prevents toddlers or pets from pressing keys unintentionally.
+
+- **Keyboard Cleaning Mode**
+  - Temporarily disables keyboard input for safe cleaning.
+
+- **Testing or Troubleshooting**
+  - Helps technicians or QA engineers test boot behavior or driver settings.
+
+- **Accidental Typing Prevention**
+  - Writers and editors can temporarily lock the keyboard to avoid distractions while reviewing content.
+
+- **Automated Use with Task Scheduler or Remote Scripts**
+  - Can be integrated into automation flows for toggling keyboard state on startup, shutdown, or remote command execution.
+
+
 ## ⚠️ Important Notes
 
 - This script **does NOT uninstall** the driver.
