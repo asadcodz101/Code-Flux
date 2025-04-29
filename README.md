@@ -25,7 +25,7 @@ Perfect for users who want to temporarily disable their laptop keyboard when usi
 
 ## 📦 How to Use
 
-1. [Download the ZIP](https://github.com/yourusername/yourrepo/releases) from the **Releases** section.
+1. [Download the ZIP](https://github.com/asadcodz101/Code-Flux/releases) from the **Releases** section.
 2. Extract the contents.
 3. Right-click the `.bat` file → **Run as Administrator**.
 4. A message box will confirm if the driver is now **ENABLED** or **DISABLED**.
